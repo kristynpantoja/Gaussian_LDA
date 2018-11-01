@@ -58,10 +58,11 @@ DIR_NAME='output'/'D'$NUM_DIM/'I'$NUM_ITER/'K'$INITIAL_K/'GLDA'/$time_stamp/
 mkdir -p $DIR_NAME
 echo 'The output directory is' $DIR_NAME
 #Delete the bin directory first so that it doesnot run the old version when compilation breaks
-rm -rf bin/*
+# rm -rf bin/*
 
 #compile
+echo 'about to compile'
 javac -sourcepath src/ -d bin/ -cp "external_libs/ejml-0.25.jar:external_libs/commons-logging-1.2/commons-logging-1.2.jar:external_libs/commons-math3-3.3/commons-math3-3.3.jar" src/sampler/GaussianLDA.java
-
+echo 'compiled successfully'
 #run
 java  -Xmx70g  -cp "bin/:external_libs/ejml-0.25.jar:external_libs/commons-logging-1.2/commons-logging-1.2.jar:external_libs/commons-math3-3.3/commons-math3-3.3.jar" sampler/GaussianLDA $INPUT_FILE $NUM_DIM $NUM_ITER $INITIAL_K $DIR_NAME $CORPUS_FILE
