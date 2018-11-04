@@ -17,3 +17,389 @@ Starting iteration 3
 Iteration completed: 3
 Time taken for this iteration 115.727
 Avg log-likelihood at the end of iteration 3 is -9.384829865182462
+Starting iteration 4
+Iteration completed: 4
+Time taken for this iteration 112.968
+Avg log-likelihood at the end of iteration 4 is -9.067126358877648
+Starting iteration 5
+Iteration completed: 5
+Time taken for this iteration 115.666
+Avg log-likelihood at the end of iteration 5 is -8.832723990736287
+Starting iteration 6
+Iteration completed: 6
+Time taken for this iteration 111.176
+Avg log-likelihood at the end of iteration 6 is -8.665716889244987
+Starting iteration 7
+Iteration completed: 7
+Time taken for this iteration 114.038
+Avg log-likelihood at the end of iteration 7 is -8.547817173725004
+Starting iteration 8
+Iteration completed: 8
+Time taken for this iteration 110.804
+Avg log-likelihood at the end of iteration 8 is -8.447973368128945
+Starting iteration 9
+Iteration completed: 9
+Time taken for this iteration 113.709
+Avg log-likelihood at the end of iteration 9 is -8.36008754902947
+Starting iteration 10
+Iteration completed: 10
+Time taken for this iteration 107.74
+Avg log-likelihood at the end of iteration 10 is -8.268401849771072
+Starting iteration 11
+Iteration completed: 11
+Time taken for this iteration 105.868
+Avg log-likelihood at the end of iteration 11 is -8.212794942384793
+Starting iteration 12
+Iteration completed: 12
+Time taken for this iteration 118.788
+Avg log-likelihood at the end of iteration 12 is -8.173346795920196
+Starting iteration 13
+Iteration completed: 13
+Time taken for this iteration 123.508
+Avg log-likelihood at the end of iteration 13 is -8.135820736992116
+Starting iteration 14
+Iteration completed: 14
+Time taken for this iteration 118.135
+Avg log-likelihood at the end of iteration 14 is -8.111087851626818
+Starting iteration 15
+Iteration completed: 15
+Time taken for this iteration 117.676
+Avg log-likelihood at the end of iteration 15 is -8.081806804633597
+Starting iteration 16
+Iteration completed: 16
+Time taken for this iteration 127.046
+Avg log-likelihood at the end of iteration 16 is -8.054479980484029
+Starting iteration 17
+Iteration completed: 17
+Time taken for this iteration 121.784
+Avg log-likelihood at the end of iteration 17 is -8.031301411170688
+Starting iteration 18
+Iteration completed: 18
+Time taken for this iteration 128.982
+Avg log-likelihood at the end of iteration 18 is -8.009857945289733
+Starting iteration 19
+Iteration completed: 19
+Time taken for this iteration 123.127
+Avg log-likelihood at the end of iteration 19 is -7.9858803071962035
+Starting iteration 20
+Iteration completed: 20
+Time taken for this iteration 118.413
+Avg log-likelihood at the end of iteration 20 is -7.956292407554813
+Starting iteration 21
+Iteration completed: 21
+Time taken for this iteration 121.462
+Avg log-likelihood at the end of iteration 21 is -7.933820271536642
+Starting iteration 22
+Iteration completed: 22
+Time taken for this iteration 117.934
+Avg log-likelihood at the end of iteration 22 is -7.917561519830336
+Starting iteration 23
+Iteration completed: 23
+Time taken for this iteration 114.895
+Avg log-likelihood at the end of iteration 23 is -7.897218798497061
+Starting iteration 24
+Iteration completed: 24
+Time taken for this iteration 115.442
+Avg log-likelihood at the end of iteration 24 is -7.8828970958382305
+Starting iteration 25
+Iteration completed: 25
+Time taken for this iteration 129.227
+Avg log-likelihood at the end of iteration 25 is -7.8421020080843435
+Starting iteration 26
+Iteration completed: 26
+Time taken for this iteration 128.965
+Avg log-likelihood at the end of iteration 26 is -7.812126559037424
+Starting iteration 27
+Iteration completed: 27
+Time taken for this iteration 136.216
+Avg log-likelihood at the end of iteration 27 is -7.790925253683564
+Starting iteration 28
+Iteration completed: 28
+Time taken for this iteration 114.414
+Avg log-likelihood at the end of iteration 28 is -7.772600705012641
+Starting iteration 29
+Iteration completed: 29
+Time taken for this iteration 128.787
+Avg log-likelihood at the end of iteration 29 is -7.763867949739602
+Starting iteration 30
+Iteration completed: 30
+Time taken for this iteration 114.809
+Avg log-likelihood at the end of iteration 30 is -7.7624808045689955
+Starting iteration 31
+Iteration completed: 31
+Time taken for this iteration 123.243
+Avg log-likelihood at the end of iteration 31 is -7.76022907350095
+Starting iteration 32
+Iteration completed: 32
+Time taken for this iteration 119.713
+Avg log-likelihood at the end of iteration 32 is -7.757152415539019
+Starting iteration 33
+Iteration completed: 33
+Time taken for this iteration 119.867
+Avg log-likelihood at the end of iteration 33 is -7.754881634367398
+Starting iteration 34
+Iteration completed: 34
+Time taken for this iteration 125.8
+Avg log-likelihood at the end of iteration 34 is -7.7545157985692965
+Starting iteration 35
+Iteration completed: 35
+Time taken for this iteration 121.204
+Avg log-likelihood at the end of iteration 35 is -7.750905873946938
+Starting iteration 36
+Iteration completed: 36
+Time taken for this iteration 122.567
+Avg log-likelihood at the end of iteration 36 is -7.7467793697977445
+Starting iteration 37
+Iteration completed: 37
+Time taken for this iteration 112.339
+Avg log-likelihood at the end of iteration 37 is -7.743059908882382
+Starting iteration 38
+Iteration completed: 38
+Time taken for this iteration 116.718
+Avg log-likelihood at the end of iteration 38 is -7.7382383098487555
+Starting iteration 39
+Iteration completed: 39
+Time taken for this iteration 107.56
+Avg log-likelihood at the end of iteration 39 is -7.734717081099761
+Starting iteration 40
+Iteration completed: 40
+Time taken for this iteration 114.214
+Avg log-likelihood at the end of iteration 40 is -7.733958433057908
+Starting iteration 41
+Iteration completed: 41
+Time taken for this iteration 118.629
+Avg log-likelihood at the end of iteration 41 is -7.73261391053046
+Starting iteration 42
+Iteration completed: 42
+Time taken for this iteration 4966.416
+Avg log-likelihood at the end of iteration 42 is -7.7312630247154805
+Starting iteration 43
+Iteration completed: 43
+Time taken for this iteration 110.24
+Avg log-likelihood at the end of iteration 43 is -7.72781773706882
+Starting iteration 44
+Iteration completed: 44
+Time taken for this iteration 105.756
+Avg log-likelihood at the end of iteration 44 is -7.727384009402329
+Starting iteration 45
+Iteration completed: 45
+Time taken for this iteration 107.673
+Avg log-likelihood at the end of iteration 45 is -7.727506948886478
+Starting iteration 46
+Iteration completed: 46
+Time taken for this iteration 105.711
+Avg log-likelihood at the end of iteration 46 is -7.725687334248081
+Starting iteration 47
+Iteration completed: 47
+Time taken for this iteration 107.879
+Avg log-likelihood at the end of iteration 47 is -7.72172019413517
+Starting iteration 48
+Iteration completed: 48
+Time taken for this iteration 106.368
+Avg log-likelihood at the end of iteration 48 is -7.720459422782499
+Starting iteration 49
+Iteration completed: 49
+Time taken for this iteration 108.515
+Avg log-likelihood at the end of iteration 49 is -7.71868110010867
+Starting iteration 50
+Iteration completed: 50
+Time taken for this iteration 108.721
+Avg log-likelihood at the end of iteration 50 is -7.71819541565375
+Starting iteration 51
+Iteration completed: 51
+Time taken for this iteration 119.755
+Avg log-likelihood at the end of iteration 51 is -7.718470426939426
+Starting iteration 52
+Iteration completed: 52
+Time taken for this iteration 117.905
+Avg log-likelihood at the end of iteration 52 is -7.717292030885833
+Starting iteration 53
+Iteration completed: 53
+Time taken for this iteration 120.338
+Avg log-likelihood at the end of iteration 53 is -7.717499931278143
+Starting iteration 54
+Iteration completed: 54
+Time taken for this iteration 124.13
+Avg log-likelihood at the end of iteration 54 is -7.715908139133726
+Starting iteration 55
+Iteration completed: 55
+Time taken for this iteration 111.64
+Avg log-likelihood at the end of iteration 55 is -7.71464721400302
+Starting iteration 56
+Iteration completed: 56
+Time taken for this iteration 110.155
+Avg log-likelihood at the end of iteration 56 is -7.713886942114515
+Starting iteration 57
+Iteration completed: 57
+Time taken for this iteration 113.879
+Avg log-likelihood at the end of iteration 57 is -7.712759606694998
+Starting iteration 58
+Iteration completed: 58
+Time taken for this iteration 119.586
+Avg log-likelihood at the end of iteration 58 is -7.703484621617208
+Starting iteration 59
+Iteration completed: 59
+Time taken for this iteration 116.98
+Avg log-likelihood at the end of iteration 59 is -7.702262580939177
+Starting iteration 60
+Iteration completed: 60
+Time taken for this iteration 120.39
+Avg log-likelihood at the end of iteration 60 is -7.70060694953268
+Starting iteration 61
+Iteration completed: 61
+Time taken for this iteration 121.935
+Avg log-likelihood at the end of iteration 61 is -7.698283568045862
+Starting iteration 62
+Iteration completed: 62
+Time taken for this iteration 118.405
+Avg log-likelihood at the end of iteration 62 is -7.6966913725337935
+Starting iteration 63
+Iteration completed: 63
+Time taken for this iteration 122.172
+Avg log-likelihood at the end of iteration 63 is -7.69572953415416
+Starting iteration 64
+Iteration completed: 64
+Time taken for this iteration 133.412
+Avg log-likelihood at the end of iteration 64 is -7.69586398306685
+Starting iteration 65
+Iteration completed: 65
+Time taken for this iteration 123.451
+Avg log-likelihood at the end of iteration 65 is -7.693817702701564
+Starting iteration 66
+Iteration completed: 66
+Time taken for this iteration 117.171
+Avg log-likelihood at the end of iteration 66 is -7.690132779753719
+Starting iteration 67
+Iteration completed: 67
+Time taken for this iteration 117.923
+Avg log-likelihood at the end of iteration 67 is -7.689700744324703
+Starting iteration 68
+Iteration completed: 68
+Time taken for this iteration 120.224
+Avg log-likelihood at the end of iteration 68 is -7.689968917051931
+Starting iteration 69
+Iteration completed: 69
+Time taken for this iteration 126.974
+Avg log-likelihood at the end of iteration 69 is -7.6889056945329655
+Starting iteration 70
+Iteration completed: 70
+Time taken for this iteration 123.931
+Avg log-likelihood at the end of iteration 70 is -7.6859926049315215
+Starting iteration 71
+Iteration completed: 71
+Time taken for this iteration 130.269
+Avg log-likelihood at the end of iteration 71 is -7.681596447796613
+Starting iteration 72
+Iteration completed: 72
+Time taken for this iteration 116.875
+Avg log-likelihood at the end of iteration 72 is -7.681458900091711
+Starting iteration 73
+Iteration completed: 73
+Time taken for this iteration 119.552
+Avg log-likelihood at the end of iteration 73 is -7.681044725146467
+Starting iteration 74
+Iteration completed: 74
+Time taken for this iteration 123.894
+Avg log-likelihood at the end of iteration 74 is -7.6810613871490485
+Starting iteration 75
+Iteration completed: 75
+Time taken for this iteration 117.777
+Avg log-likelihood at the end of iteration 75 is -7.6805751156733635
+Starting iteration 76
+Iteration completed: 76
+Time taken for this iteration 109.356
+Avg log-likelihood at the end of iteration 76 is -7.680082242526772
+Starting iteration 77
+Iteration completed: 77
+Time taken for this iteration 108.915
+Avg log-likelihood at the end of iteration 77 is -7.678646333674118
+Starting iteration 78
+Iteration completed: 78
+Time taken for this iteration 111.603
+Avg log-likelihood at the end of iteration 78 is -7.677806854727465
+Starting iteration 79
+Iteration completed: 79
+Time taken for this iteration 109.956
+Avg log-likelihood at the end of iteration 79 is -7.676566507910372
+Starting iteration 80
+Iteration completed: 80
+Time taken for this iteration 109.698
+Avg log-likelihood at the end of iteration 80 is -7.675876187088384
+Starting iteration 81
+Iteration completed: 81
+Time taken for this iteration 105.679
+Avg log-likelihood at the end of iteration 81 is -7.675203991876867
+Starting iteration 82
+Iteration completed: 82
+Time taken for this iteration 108.768
+Avg log-likelihood at the end of iteration 82 is -7.674529837918119
+Starting iteration 83
+Iteration completed: 83
+Time taken for this iteration 106.371
+Avg log-likelihood at the end of iteration 83 is -7.6696465329540064
+Starting iteration 84
+Iteration completed: 84
+Time taken for this iteration 105.993
+Avg log-likelihood at the end of iteration 84 is -7.66971945425778
+Starting iteration 85
+Iteration completed: 85
+Time taken for this iteration 112.943
+Avg log-likelihood at the end of iteration 85 is -7.668840266988557
+Starting iteration 86
+Iteration completed: 86
+Time taken for this iteration 115.726
+Avg log-likelihood at the end of iteration 86 is -7.667817245864436
+Starting iteration 87
+Iteration completed: 87
+Time taken for this iteration 137.417
+Avg log-likelihood at the end of iteration 87 is -7.667028135600026
+Starting iteration 88
+Iteration completed: 88
+Time taken for this iteration 128.6
+Avg log-likelihood at the end of iteration 88 is -7.6667497664067525
+Starting iteration 89
+Iteration completed: 89
+Time taken for this iteration 116.264
+Avg log-likelihood at the end of iteration 89 is -7.665927194550207
+Starting iteration 90
+Iteration completed: 90
+Time taken for this iteration 105.885
+Avg log-likelihood at the end of iteration 90 is -7.665135992619537
+Starting iteration 91
+Iteration completed: 91
+Time taken for this iteration 107.451
+Avg log-likelihood at the end of iteration 91 is -7.663480413787905
+Starting iteration 92
+Iteration completed: 92
+Time taken for this iteration 108.797
+Avg log-likelihood at the end of iteration 92 is -7.662872384481057
+Starting iteration 93
+Iteration completed: 93
+Time taken for this iteration 114.074
+Avg log-likelihood at the end of iteration 93 is -7.662387555809369
+Starting iteration 94
+Iteration completed: 94
+Time taken for this iteration 103.689
+Avg log-likelihood at the end of iteration 94 is -7.6625136508495535
+Starting iteration 95
+Iteration completed: 95
+Time taken for this iteration 4390.939
+Avg log-likelihood at the end of iteration 95 is -7.662443989802918
+Starting iteration 96
+Iteration completed: 96
+Time taken for this iteration 38942.422
+Avg log-likelihood at the end of iteration 96 is -7.662236799011938
+Starting iteration 97
+Iteration completed: 97
+Time taken for this iteration 1659.631
+Avg log-likelihood at the end of iteration 97 is -7.661429731013574
+Starting iteration 98
+Iteration completed: 98
+Time taken for this iteration 126.417
+Avg log-likelihood at the end of iteration 98 is -7.660766744780294
+Starting iteration 99
+Iteration completed: 99
+Time taken for this iteration 104.909
+Avg log-likelihood at the end of iteration 99 is -7.660943125128729
+Num of tables in each iteration: 
+Time taken 61328.14
